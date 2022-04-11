@@ -10,5 +10,4 @@
 
 # Executable
 source/HelloWorld
-
-
+*.exe
