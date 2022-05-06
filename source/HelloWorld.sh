@@ -11,6 +11,7 @@ Msys2 Shell
 Mingw32 Shell
 Bash
 Zsh
+Fish
 
 Run it by typing this:
 
