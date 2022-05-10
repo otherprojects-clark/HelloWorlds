@@ -11,11 +11,11 @@ namespace std {
 /*
 Requirements:
 
-dotnet 6 sdk
+Options:
+- Microsoft C# Compiler (from Visual Studio's Build Tools)
 
 Run it by typing this:
 
-dotnet run
-
+csc Program.cs -out:Program.exe && Program.exe
 
 */
