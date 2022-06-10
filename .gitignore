@@ -8,6 +8,9 @@
 *.hi
 *.o
 
+# fsharp
+*.dll
+
 # Executable
 source/HelloWorld
 *.exe
