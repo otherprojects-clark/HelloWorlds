@@ -1,9 +1,9 @@
 ﻿using System;
 
 namespace std {
-	class Program {
+	class HelloWorld {
 		public static void Main(String[] args){
-			Console.WriteLine("Hello World");
+			Console.WriteLine("Hello, World!");
 		}
 	}
 }
@@ -13,9 +13,10 @@ Requirements:
 
 Options:
 - Microsoft C# Compiler (from Visual Studio's Build Tools)
+- Dotnet
 
 Run it by typing this:
 
-csc Program.cs -out:Program.exe && Program.exe
+csc HelloWorld.cs && HelloWorld
 
 */

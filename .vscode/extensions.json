@@ -1,6 +1,8 @@
 {
   "recommendations": [
     "justusadam.language-haskell",
-    "ms-vscode.cpptools"
+    "ms-vscode.cpptools",
+    "ms-dotnettools.csharp",
+    "mjmcloug.vscode-elixir"
   ]
 }

@@ -1,1 +1,1 @@
-x = msgbox("Hello World", 1, "VBScript")
+x = msgbox("Hello World!", 1, "VBScript")

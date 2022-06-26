@@ -8,9 +8,15 @@
 *.hi
 *.o
 
+# Visual C/C++ compiler
+*.obj
+
 # fsharp
 *.dll
 
 # Executable
 source/HelloWorld
 *.exe
+
+# Ruby Empty File Checking
+source/emptychecker.rb

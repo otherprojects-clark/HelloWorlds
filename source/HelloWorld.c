@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 int main(){
-  printf("Hello World\n");
+  printf("Hello World!\n");
   return 0;
 }
 
 /*
 Requirements:
-gcc/clang
+gcc/clang/cl
 
 Run it by typing this:
 
@@ -20,10 +20,14 @@ clang HelloWorld.c -o HelloWorld && ./HelloWorld
 
 
 Windows:
-gcc HelloWorld.c -o HelloWorld.exe && HelloWorld.exe
+gcc HelloWorld.c -o HelloWorld.exe && HelloWorld
 
 or 
 
-clang HelloWorld.c -o HelloWorld.exe && HelloWorld.exe
+clang HelloWorld.c -o HelloWorld.exe && HelloWorld
+
+or
+
+cl HelloWorld.c && HelloWorld
 
 */ 

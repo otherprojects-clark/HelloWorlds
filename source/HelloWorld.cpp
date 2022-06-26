@@ -2,13 +2,13 @@
 using namespace std;
 
 int main(){
-  cout << "Hello World";
+  cout << "Hello World!";
   return 0;
 }
 
 /*
 Requirements:
-g++/clang++
+g++/clang++/cl
 
 Run it by typing this:
 
@@ -17,5 +17,9 @@ g++ HelloWorld.cpp -o HelloWorld && ./HelloWorld
 or 
 
 clang++ HelloWorld.cpp -o HelloWorld && ./HelloWorld
+
+or (Windows only)
+
+cl HelloWorld.cpp /EHsc && HelloWorld 
 
 */

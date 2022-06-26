@@ -1,0 +1,2 @@
+*.fs linguist-language=F#
+*.exs linguist-language=Elixir

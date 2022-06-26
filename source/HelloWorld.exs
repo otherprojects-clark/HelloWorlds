@@ -1,4 +1,4 @@
-IO.puts("Hello World")
+IO.puts("Hello World!")
 
 # Requirements:
 #   Elixir

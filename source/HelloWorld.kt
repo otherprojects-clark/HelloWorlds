@@ -1,5 +1,5 @@
 fun main(){
-  println("Hello World")
+  println("Hello World!")
 }
 
 /*
@@ -11,6 +11,6 @@ Options:
 
 Run it by typing this:
 
-kotlinc-native HelloWorld.kt -o HelloWorld && HelloWorld.exe
+kotlinc-native HelloWorld.kt -o HelloWorld && HelloWorld
 
 */

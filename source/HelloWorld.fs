@@ -1,4 +1,4 @@
-printfn "Hello World"
+printfn "Hello World!"
 
 (*
 	Requirements: Visual F# Compiler (from VS Build Tools)
