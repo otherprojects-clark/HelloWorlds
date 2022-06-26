@@ -1,2 +1,2 @@
 # HelloWorlds
-Hello World in different markup &amp; programming languages.
+"Hello World" in different programming languages.
